@@ -1,0 +1,9 @@
+USAGE: bin/pbf [-h] [-f filename] [-s] [-b] [-n id] [-w id] [-w id key ...]
+   -h              Help: displays this help menu.
+   -f filename     File: read map data from the specified file
+   -s              Summary: displays map summary information.
+   -b              Bounding box: displays map bounding box.
+   -n id           Node: displays information about the specified node.
+   -w id           Way refs: displays node references for the specified way.
+   -w id key ...   Way values: displays values associated with the specified way and keys.
+
